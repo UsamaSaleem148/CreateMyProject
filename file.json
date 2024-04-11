@@ -1,0 +1,35 @@
+[
+    {
+        "folder": {
+            "name": "services",
+            "files": [
+                "test.js",
+                "node.jsx",
+                "return.tsx",
+                "hello.py"
+            ]
+        }
+    },
+    {
+        "folder": {
+            "name": "components",
+            "files": [
+                "test.js",
+                "node.jsx",
+                "return.tsx",
+                "hello.py"
+            ]
+        }
+    },
+    {
+        "folder": {
+            "name": "apis",
+            "files": [
+                "test.js",
+                "node.jsx",
+                "return.tsx",
+                "hello.py"
+            ]
+        }
+    }
+]
